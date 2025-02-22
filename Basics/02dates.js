@@ -1,7 +1,7 @@
 let date= new Date();
 console.log(date.toString())
 
-// this prints the todays time in millisecond
+// this prints the todays time in millisecond as we can se below
 let today = Date.now();
 console.log(today);
 
